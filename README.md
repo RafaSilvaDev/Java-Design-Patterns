@@ -13,4 +13,8 @@ Ambos os "prints" existentes devem exibir a mesma referência em memória, uma v
 ### :electric_plug: Adapter
 Neste padrão, classes implementam adptadores para que possuam um método em comum com outras classes que também implementam o mesmo adaptador, a fim de analisar o estado de seus objetos através de um objeto adaptador.
 
+### :house: Facade
+Este padrão tem a finalidade de fornecer uma espécie de "faixada" para clientes de um sistema complexo, onde eles interagem com um Facade ao invés de outros componentes do sistema.
 
+### :loop: Iterator
+Padrão muito utilizado para percorrer coleções sem expor suas estruturas internas.
