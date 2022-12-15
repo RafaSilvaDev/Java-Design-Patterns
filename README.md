@@ -9,3 +9,8 @@ O package caso2 contém a implementação do design pattern junto de Enums, dife
 
 ### :lock: Singleton
 Ambos os "prints" existentes devem exibir a mesma referência em memória, uma vez que este padrão de projetos permite apenas uma unica instância de determinado objeto em toda a aplicação.
+
+### :electric_plug: Adapter
+Neste padrão, classes implementam adptadores para que possuam um método em comum com outras classes que também implementam o mesmo adaptador, a fim de analisar o estado de seus objetos através de um objeto adaptador.
+
+
