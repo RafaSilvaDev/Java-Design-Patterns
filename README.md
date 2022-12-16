@@ -1,5 +1,5 @@
-># Java Design Patterns
->Implementações de alguns design patterns em __Java__
+# Java Design Patterns
+Implementações de alguns design patterns em __Java__
 
 ---
 
