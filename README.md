@@ -1,5 +1,7 @@
-# Java-Design-Patterns
-Implementações de alguns design patterns em Java
+># Java Design Patterns
+>Implementações de alguns design patterns em __Java__
+
+---
 
 ### :hammer: Abstract Factory
 O package caso2 contém a implementação do design pattern junto de Enums, diferente do package caso1 no qual não utiliza. Tal padrão de projetos permite uma padronização na criação de objetos relacionais entre si dentro de uma aplicação.
@@ -18,3 +20,9 @@ Este padrão tem a finalidade de fornecer uma espécie de "faixada" para cliente
 
 ### :loop: Iterator
 Padrão muito utilizado para percorrer coleções sem expor suas estruturas internas.
+
+### :eyeglasses: Strategy
+Este padrão emprega a implementação voltada ao comportamento de entidades de um sistema. Ele pode ser combinado junto ao padrão ___factory___ para a criação de objetos a serem validados pelo ___Strategy___
+
+### :scissors: Template method 
+Seu objetivo é modificar o comportamento de um algoritmo usando herança de uma maneira um tanto alternativa.
